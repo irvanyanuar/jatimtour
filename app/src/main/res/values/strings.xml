@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JatimTour</string>
+    <string name="nama_tempat">Nama Tempat</string>
+    <string name="detail">Detail</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="jam">Jam</string>
+    <string name="harga">Harga</string>
+    <string name="user_name">Muhammad Irvan Yanuar</string>
+    <string name="user_email">irvanyanuar17@gmail.com</string>
+</resources>
